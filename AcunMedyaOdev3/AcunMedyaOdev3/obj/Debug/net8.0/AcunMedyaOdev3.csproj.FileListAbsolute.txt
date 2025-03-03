@@ -1,0 +1,14 @@
+C:\Users\90534\Desktop\AcunMedyaOdev3\AcunMedyaOdev3\bin\Debug\net8.0\AcunMedyaOdev3.exe
+C:\Users\90534\Desktop\AcunMedyaOdev3\AcunMedyaOdev3\bin\Debug\net8.0\AcunMedyaOdev3.deps.json
+C:\Users\90534\Desktop\AcunMedyaOdev3\AcunMedyaOdev3\bin\Debug\net8.0\AcunMedyaOdev3.runtimeconfig.json
+C:\Users\90534\Desktop\AcunMedyaOdev3\AcunMedyaOdev3\bin\Debug\net8.0\AcunMedyaOdev3.dll
+C:\Users\90534\Desktop\AcunMedyaOdev3\AcunMedyaOdev3\bin\Debug\net8.0\AcunMedyaOdev3.pdb
+C:\Users\90534\Desktop\AcunMedyaOdev3\AcunMedyaOdev3\obj\Debug\net8.0\AcunMedyaOdev3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90534\Desktop\AcunMedyaOdev3\AcunMedyaOdev3\obj\Debug\net8.0\AcunMedyaOdev3.AssemblyInfoInputs.cache
+C:\Users\90534\Desktop\AcunMedyaOdev3\AcunMedyaOdev3\obj\Debug\net8.0\AcunMedyaOdev3.AssemblyInfo.cs
+C:\Users\90534\Desktop\AcunMedyaOdev3\AcunMedyaOdev3\obj\Debug\net8.0\AcunMedyaOdev3.csproj.CoreCompileInputs.cache
+C:\Users\90534\Desktop\AcunMedyaOdev3\AcunMedyaOdev3\obj\Debug\net8.0\AcunMedyaOdev3.dll
+C:\Users\90534\Desktop\AcunMedyaOdev3\AcunMedyaOdev3\obj\Debug\net8.0\refint\AcunMedyaOdev3.dll
+C:\Users\90534\Desktop\AcunMedyaOdev3\AcunMedyaOdev3\obj\Debug\net8.0\AcunMedyaOdev3.pdb
+C:\Users\90534\Desktop\AcunMedyaOdev3\AcunMedyaOdev3\obj\Debug\net8.0\AcunMedyaOdev3.genruntimeconfig.cache
+C:\Users\90534\Desktop\AcunMedyaOdev3\AcunMedyaOdev3\obj\Debug\net8.0\ref\AcunMedyaOdev3.dll
