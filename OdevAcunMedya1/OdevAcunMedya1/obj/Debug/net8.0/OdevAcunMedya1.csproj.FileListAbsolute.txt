@@ -1,0 +1,14 @@
+C:\Users\90534\Desktop\OdevAcunMedya1\OdevAcunMedya1\obj\Debug\net8.0\OdevAcunMedya1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90534\Desktop\OdevAcunMedya1\OdevAcunMedya1\obj\Debug\net8.0\OdevAcunMedya1.AssemblyInfoInputs.cache
+C:\Users\90534\Desktop\OdevAcunMedya1\OdevAcunMedya1\obj\Debug\net8.0\OdevAcunMedya1.AssemblyInfo.cs
+C:\Users\90534\Desktop\OdevAcunMedya1\OdevAcunMedya1\obj\Debug\net8.0\OdevAcunMedya1.csproj.CoreCompileInputs.cache
+C:\Users\90534\Desktop\OdevAcunMedya1\OdevAcunMedya1\bin\Debug\net8.0\OdevAcunMedya1.exe
+C:\Users\90534\Desktop\OdevAcunMedya1\OdevAcunMedya1\bin\Debug\net8.0\OdevAcunMedya1.deps.json
+C:\Users\90534\Desktop\OdevAcunMedya1\OdevAcunMedya1\bin\Debug\net8.0\OdevAcunMedya1.runtimeconfig.json
+C:\Users\90534\Desktop\OdevAcunMedya1\OdevAcunMedya1\bin\Debug\net8.0\OdevAcunMedya1.dll
+C:\Users\90534\Desktop\OdevAcunMedya1\OdevAcunMedya1\bin\Debug\net8.0\OdevAcunMedya1.pdb
+C:\Users\90534\Desktop\OdevAcunMedya1\OdevAcunMedya1\obj\Debug\net8.0\OdevAcunMedya1.dll
+C:\Users\90534\Desktop\OdevAcunMedya1\OdevAcunMedya1\obj\Debug\net8.0\refint\OdevAcunMedya1.dll
+C:\Users\90534\Desktop\OdevAcunMedya1\OdevAcunMedya1\obj\Debug\net8.0\OdevAcunMedya1.pdb
+C:\Users\90534\Desktop\OdevAcunMedya1\OdevAcunMedya1\obj\Debug\net8.0\OdevAcunMedya1.genruntimeconfig.cache
+C:\Users\90534\Desktop\OdevAcunMedya1\OdevAcunMedya1\obj\Debug\net8.0\ref\OdevAcunMedya1.dll
