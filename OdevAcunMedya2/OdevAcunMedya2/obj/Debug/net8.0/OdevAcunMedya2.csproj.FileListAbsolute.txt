@@ -1,0 +1,14 @@
+C:\Users\90534\Desktop\OdevAcunMedya2\OdevAcunMedya2\bin\Debug\net8.0\OdevAcunMedya2.exe
+C:\Users\90534\Desktop\OdevAcunMedya2\OdevAcunMedya2\bin\Debug\net8.0\OdevAcunMedya2.deps.json
+C:\Users\90534\Desktop\OdevAcunMedya2\OdevAcunMedya2\bin\Debug\net8.0\OdevAcunMedya2.runtimeconfig.json
+C:\Users\90534\Desktop\OdevAcunMedya2\OdevAcunMedya2\bin\Debug\net8.0\OdevAcunMedya2.dll
+C:\Users\90534\Desktop\OdevAcunMedya2\OdevAcunMedya2\bin\Debug\net8.0\OdevAcunMedya2.pdb
+C:\Users\90534\Desktop\OdevAcunMedya2\OdevAcunMedya2\obj\Debug\net8.0\OdevAcunMedya2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90534\Desktop\OdevAcunMedya2\OdevAcunMedya2\obj\Debug\net8.0\OdevAcunMedya2.AssemblyInfoInputs.cache
+C:\Users\90534\Desktop\OdevAcunMedya2\OdevAcunMedya2\obj\Debug\net8.0\OdevAcunMedya2.AssemblyInfo.cs
+C:\Users\90534\Desktop\OdevAcunMedya2\OdevAcunMedya2\obj\Debug\net8.0\OdevAcunMedya2.csproj.CoreCompileInputs.cache
+C:\Users\90534\Desktop\OdevAcunMedya2\OdevAcunMedya2\obj\Debug\net8.0\OdevAcunMedya2.dll
+C:\Users\90534\Desktop\OdevAcunMedya2\OdevAcunMedya2\obj\Debug\net8.0\refint\OdevAcunMedya2.dll
+C:\Users\90534\Desktop\OdevAcunMedya2\OdevAcunMedya2\obj\Debug\net8.0\OdevAcunMedya2.pdb
+C:\Users\90534\Desktop\OdevAcunMedya2\OdevAcunMedya2\obj\Debug\net8.0\OdevAcunMedya2.genruntimeconfig.cache
+C:\Users\90534\Desktop\OdevAcunMedya2\OdevAcunMedya2\obj\Debug\net8.0\ref\OdevAcunMedya2.dll
